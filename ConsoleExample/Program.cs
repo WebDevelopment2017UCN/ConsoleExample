@@ -12,7 +12,7 @@ namespace ConsoleExample
         {
             Console.WriteLine("Hello - Please tell me your name");
             string name = Console.ReadLine();
-            Console.WriteLine("hello: " + name);
+            Console.WriteLine("hello: " + name + " I Love you :D");
             Console.ReadKey();
         }
     }
